@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="877bd7e4-6f2e-4723-a1e8-a9e00dc52d0e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../autopro-ventas/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../autopro-ventas/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../autopro-ventas/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../autopro-ventas/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../autopro-ventas/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../autopro-ventas/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../autopro-ventas/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../autopro-ventas/src/main/java/com/autoproventas/AutoproVentasApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../autopro-ventas/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../autopro-ventas/src/test/java/com/autoproventas/AutoproVentasApplicationTests.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ventas-autopro/src/main/java/com/autopro/ventasautopro/HolaMundoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ventas-autopro/src/main/java/com/autopro/ventasautopro/HolaMundo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
