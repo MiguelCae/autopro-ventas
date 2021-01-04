@@ -1,10 +1,10 @@
-package com.autoproventas;
+package com.autopro.ventasautopro;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AutoproVentasApplicationTests {
+class VentasAutoproApplicationTests {
 
 	@Test
 	void contextLoads() {

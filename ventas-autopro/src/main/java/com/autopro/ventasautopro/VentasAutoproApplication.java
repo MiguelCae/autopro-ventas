@@ -1,13 +1,13 @@
-package com.autoproventas;
+package com.autopro.ventasautopro;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AutoproVentasApplication {
+public class VentasAutoproApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AutoproVentasApplication.class, args);
+		SpringApplication.run(VentasAutoproApplication.class, args);
 	}
 
 }
